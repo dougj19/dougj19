@@ -17,7 +17,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dougj19&theme=onestar&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
 <div>
-  <a href="https://felipeoliveira.pages.dev/">
+  <a href="">
     <img src="https://img.shields.io/badge/website-00b598?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/douglas-santos-5b94b6235">
