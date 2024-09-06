@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6E856D1&background=FF31D100&random=false&width=435&lines=Seja+Bem+vindo.;Analista+de+Qualidade+a+3+anos;No%C3%A7%C3%A3o+geral+de+tarefas+e+processos;Focado+em+resultados;Testes+funcionais+e+n%C3%A3o+funcionais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6E856D1&background=FF31D100&random=false&width=435&lines=Seja+Bem+vindo.;Analista+de+Qualidade+a+4+anos;No%C3%A7%C3%A3o+geral+de+tarefas+e+processos;Focado+em+resultados;Testes+funcionais+e+n%C3%A3o+funcionais)](https://git.io/typing-svg)
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dougj19&theme=vue"/>
 </div>
